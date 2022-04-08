@@ -1,0 +1,8 @@
+[25-Jan-2022 04:50:47 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/virtualitprofess/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/virtualitprofess/public_html/config/app.php on line 16
+[25-Jan-2022 04:50:47 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/virtualitprofess/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/virtualitprofess/public_html/config/app.php on line 16
